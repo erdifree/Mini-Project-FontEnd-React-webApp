@@ -1,0 +1,1 @@
+insert into books(title) values ('Clean Code'), ('The Pragmatic Programmer'), ('Design patterns'), ('Refactoring');

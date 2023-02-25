@@ -1,0 +1,11 @@
+.c_task {
+  max-width: 300px;
+}
+.c_task .card-body {
+  position: relative;
+}
+.c_task .card-body > .c_task-toggle {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
